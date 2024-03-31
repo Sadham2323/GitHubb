@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23610" started-at="2024-03-31T15:50:44Z" finished-at="2024-03-31T15:51:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23610" started-at="2024-03-31T15:50:44Z" finished-at="2024-03-31T15:51:07Z">
+      <class name="org.prg.LaunchDD">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.prg.LaunchDD@42e26948]" name="beforeClass" is-config="true" duration-ms="2118" started-at="2024-03-31T21:20:44Z" finished-at="2024-03-31T21:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:org.prg.LaunchDD@42e26948]" name="test1" duration-ms="20661" started-at="2024-03-31T21:20:46Z" finished-at="2024-03-31T21:21:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.prg.LaunchDD@42e26948]" name="afterClass" is-config="true" duration-ms="810" started-at="2024-03-31T21:21:07Z" finished-at="2024-03-31T21:21:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.prg.LaunchDD -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
